@@ -15,3 +15,6 @@ Day 1 :
 
 Day 2 :
       PROGRAMME FOR WORD GUESSING GAME
+
+
+![Screenshot_2023-09-20_01_21_31](https://github.com/Salimshadiey/Snake_Trail/assets/102361434/47509da8-1206-4ce3-b471-4cc41f9923cb)
